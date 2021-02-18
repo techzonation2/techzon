@@ -149,7 +149,7 @@ a {
 .header {
 
     padding: 0.4rem 0;
-    size:relative; 
+    size:fixed; 
  font-size: 10px;
     position: fixed;
     background-color: blue;
