@@ -151,7 +151,7 @@ a {
     padding: 0.4rem 0;
     size:relative; 
  font-size: 10px;
-    position: relative;
+    position: fixed;
     background-color: blue;
 
 }
