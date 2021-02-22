@@ -10,7 +10,7 @@ html {min-width:100%;
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  background-size:contain;
+  
 }
 
 body {
@@ -759,8 +759,7 @@ pre code {
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  padding-right: 15px;
-  padding-left: 15px;
+
 }
 
 @media (min-width: 576px) {
