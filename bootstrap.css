@@ -759,7 +759,8 @@ pre code {
   position: relative;
   margin-left: auto;
   margin-right: auto;
-
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 @media (min-width: 576px) {
@@ -792,7 +793,7 @@ pre code {
 
 @media (min-width: 576px) {
   .container {
-    width: 540px;
+    width: 570px;
     max-width: 100%;
   }
 }
